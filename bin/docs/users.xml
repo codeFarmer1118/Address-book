@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users> 
+  <user id="2"> 
+    <name>王志祥</name>  
+    <job>java高级工程师</job>  
+    <nick>室长</nick>  
+    <email>631791301@qq.com</email> 
+  </user>  
+  <user id="4"> 
+    <name>黄祥兵</name>  
+    <job>fusui</job>  
+    <nick>大黄</nick>  
+    <email>fushi@qq.com</email> 
+  </user>  
+  <user id="4"> 
+    <name>单朋</name>  
+    <job>java</job>  
+    <nick>月月</nick>  
+    <email>peng@qq.com</email> 
+  </user>  
+  <user id="4"> 
+    <name>吴明祥</name>  
+    <job>java</job>  
+    <nick>大蛋</nick>  
+    <email>dadan@qq.com</email> 
+  </user>  
+  <user id="4"> 
+    <name>周龙</name>  
+    <job>java</job>  
+    <nick>龙哥</nick>  
+    <email>long@qq.com</email> 
+  </user>  
+  <user id="4"> 
+    <name>李龙园</name>  
+    <job>销售</job>  
+    <nick>撸神</nick>  
+    <email>yuan@qq.com</email> 
+  </user> 
+</users>
